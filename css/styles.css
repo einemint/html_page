@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Anek+Latin:wght@200&display=swap");
+
+body {
+    max-width: 70%;
+    margin: auto;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h1, h2, h3 {
+    font-family: 'Anek Latin', sans-serif;
+    margin-top: 1.5em;
+}
+
+table, td {
+    border: 1px solid black;
+}
+
+figure {
+    float: right;
+}
+
+figcaption {
+    font-style: italic;
+}
