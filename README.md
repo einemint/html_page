@@ -2,6 +2,10 @@
 
 A simple HTML page that looks like Wikipedia page.
 
+## GitHub Pages
+
+https://einemint.github.io/html_page/
+
 ## Built with
 
 HTML 5
